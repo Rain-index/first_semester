@@ -1,1 +1,11 @@
-python==3.1.2
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+seaborn
+requests
+flask
+google
+pandas_profiling
